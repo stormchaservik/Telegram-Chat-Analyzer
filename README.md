@@ -14,3 +14,6 @@ Download the repository and unzip the contents.
 Ensure Python 3.7+ is installed. Then run `pip install requirements.txt`, in the directory where the scripts are located, to get the required dependencies.
 
 Finally, run `python script_name.py` where `script_name` is the name of the script you wish to run.
+
+## Further Enhancements
+This project is barebones at the moment. Expect more analysis options to be added in the future along with improvements to user-experience for users who are not familiar with programming environments. If you have suggestions or requests, feel free to open an issue in the Issues tab!

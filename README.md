@@ -2,7 +2,7 @@
 
 There are 3 scripts:
 - `analyze.py`: Outputs a quick analysis with interesting metrics
-- `wordcloud.py`: Generates word clouds for each of the chat's participants (color palette can be customized in the code)
+- `cloud.py`: Generates word clouds for each of the chat's participants (color palette can be customized in the code)
 - `sentiment.py`: Generates a pie-chart with sentiment data for the entire chat history
 
 ## Instructions to run
